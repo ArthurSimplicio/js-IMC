@@ -1,1 +1,1 @@
-# js-IMC
+# Calcuadora-IMC
